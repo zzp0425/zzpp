@@ -1,0 +1,6 @@
+#
+# https://help.github.com/articles/dealing-with-line-endings/
+#
+# 换行符设置
+*.bat   text eol=crlf
+*.sh    text eol=lf

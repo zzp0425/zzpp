@@ -1,0 +1,6 @@
+/**
+ * zzp private project
+ * build by gradle
+ * */
+rootProject.name = 'zzpp'
+include('netty', 'java8', 'util', 'swing')
